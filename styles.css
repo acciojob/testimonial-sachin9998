@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container {
+	background-color: #f5f5f5;
+	padding: 20px 10px 10px 10px;
+}
+
+.test {
+	border: 1px solid grey;
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.author {
+	text-align: right;
+	font-style: italic;
+}
